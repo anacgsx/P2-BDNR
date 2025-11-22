@@ -144,7 +144,7 @@ Prova P2 - Banco de dados não relacional/
 
 * Atualiza saldo de um motorista, não permitindo valores negativos.
 
-### Deleção de Corrida
+### Deletar Corrida
 
 `DELETE /corridas/{id_corrida}`
 
@@ -285,3 +285,4 @@ docker-compose down -v
 ```
 
 ---
+
